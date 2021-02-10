@@ -1,0 +1,18 @@
+body {
+    width: 300px;
+    font-weight:bold ;
+    color:blue;
+}
+
+p {
+    background: yellow;
+    font-weight:400;
+}
+
+.b326, #b325 {
+    border: 1px solid green;
+}
+
+.container {
+    color:black;
+}
